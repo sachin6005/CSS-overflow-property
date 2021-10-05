@@ -1,0 +1,32 @@
+body{
+    background-color: thistle;
+}
+#div1{
+    margin-left: 100px;
+    background-color: steelblue;
+    width: 200px;
+    height: 400px;
+    overflow: scroll;
+    margin-top: 20px;
+    display: inline-block;
+}
+.over-img{
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+}
+#div2{
+    margin-left: 100px;
+    background-color: steelblue;
+    width: 200px;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 20px;
+    display: inline-block;
+}
+section{
+    margin: 80px 15px;
+}
+
+
+
